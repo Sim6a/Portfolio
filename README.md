@@ -1,2 +1,1 @@
-# data-science-practicum
-data science learning
+# Учебные проекты по Data Science Яндекс Практикум.
