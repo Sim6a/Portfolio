@@ -18,6 +18,6 @@
   - цель кредита
 
 ## Используемые библиотеки
-`Pandas`
-`Matplotlib`
-`Seaborn`
+- `Pandas`
+- `Matplotlib`
+- `Seaborn`
